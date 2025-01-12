@@ -15,18 +15,16 @@
 
 ## What I Use 💻
 
-<table border="0">
+<table align="center">
   <tr>
-    <td width="40%" align="center">
-      <h3>My Editors of Choice</h3>
+    <td align="center">
+      <h3>&nbsp;My Editors of Choice&nbsp;</h3>
       <p>
         <img src="./images/cursor.svg" height="50" alt="Cursor" />&nbsp;
         <img src="./images/intellij.svg" height="50" alt="Intellij" />
       </p>
-      <img width="441" height="0">
-      <img width="441" height="0">
     </td>
-    <td width="60%" align="center">
+    <td align="center">
       <h3>My Current Stack</h3>
       <p>
         <img src="./images/javascript.svg" height="50" alt="JavaScript" />&nbsp;
@@ -40,15 +38,13 @@
         </picture>&nbsp;
         <img src="./images/postgresql.svg" height="50" alt="PostgreSQL" />
       </p>
-      <img width="441" height="0">
-      <img width="441" height="0">
     </td>
   </tr>
 </table>
 
 ## What I Know 🧠
 
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
     <td>
