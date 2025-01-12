@@ -1,6 +1,6 @@
 # Logan Pritchett
 
-<table>
+<table border="0">
   <tr>
     <td width="60%">
       <h2>About Me</h2>
@@ -15,7 +15,7 @@
 
 ## What I Use 💻
 
-<table>
+<table border="0">
   <tr>
     <td width="40%" align="center">
       <h3>My Editors of Choice</h3>
