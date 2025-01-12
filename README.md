@@ -48,131 +48,122 @@
 
 ## What I Know 🧠
 
-<details>
-<summary>Languages</summary>
-<p align="center">
-  <img src="./images/javascript.svg" height="50" alt="JavaScript" />&nbsp;
-  <img src="./images/typescript.svg" height="50" alt="TypeScript" />&nbsp;
-  <img src="./images/html5.svg" height="50" alt="HTML" />&nbsp;
-  <img src="./images/css.svg" height="50" alt="CSS" />
-</p>
-</details>
-
-<details>
-<summary>Frontend Frameworks & Libraries</summary>
-<p align="center">
-  <img src="./images/react.svg" height="50" alt="React" />&nbsp;
-  <img src="./images/nextjs.svg" height="50" alt="Next.js" />&nbsp;
-  <img src="./images/bootstrap.svg" height="50" alt="Bootstrap" />&nbsp;
-  <img src="./images/sass.svg" height="50" alt="SASS" />
-</p>
-</details>
-
-<details>
-<summary>Backend & Database</summary>
-<p align="center">
-  <img src="./images/nodejs.svg" height="50" alt="Node.js" />&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/express/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/express/light.svg" height="50" />
-    <img src="./images/express/light.svg" height="50" alt="Express" />
-  </picture>&nbsp;
-  <img src="./images/postgresql.svg" height="50" alt="PostgreSQL" />&nbsp;
-  <img src="./images/knex.svg" height="50" alt="Knex" />
-</p>
-</details>
-
-<details>
-<summary>Testing & Development</summary>
-<p align="center">
-  <img src="./images/jest.svg" height="50" alt="Jest" />&nbsp;
-  <img src="./images/mocha.svg" height="50" alt="Mocha" />&nbsp;
-  <img src="./images/chai.svg" height="50" alt="Chai" />
-</p>
-</details>
-
-<details>
-<summary>Package Managers</summary>
-<p align="center">
-  <img src="./images/npm.svg" height="50" alt="NPM" />&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/pnpm/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/pnpm/light.svg" height="50" />
-    <img src="./images/pnpm/light.svg" height="50" alt="PNPM" />
-  </picture>&nbsp;
-  <img src="./images/bun.svg" height="50" alt="Bun" />
-</p>
-</details>
-
-<!-- Deployment & Hosting -->
-<details>
-<summary>Deployment & Hosting</summary>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/vercel/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/vercel/light.svg" height="50" />
-    <img src="./images/vercel/light.svg" height="50" alt="Vercel" />
-  </picture>&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/render/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/render/light.svg" height="50" />
-    <img src="./images/render/light.svg" height="50" alt="Render" />
-  </picture>&nbsp;
-  <img src="./images/supabase.svg" height="50" alt="Supabase" />&nbsp;
-  <img src="./images/aiven.png" height="50" alt="Aiven" />
-</p>
-</details>
-
-<!-- Version Control -->
-<details>
-<summary>Version Control</summary>
-<p align="center">
-  <img src="./images/git.svg" height="50" alt="Git" />&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/github/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/github/light.svg" height="50" />
-    <img src="./images/github/light.svg" height="50" alt="GitHub" />
-  </picture>
-</p>
-</details>
-
-<!-- Development Tools -->
-<details>
-<summary>Development Tools</summary>
-<p align="center">
-  <img src="./images/postman.svg" height="50" alt="Postman" />&nbsp;
-  <img src="./images/docker.svg" height="50" alt="Docker" />
-</p>
-</details>
-
-<details>
-<summary>AI Tools</summary>
-<p align="center">
-  <img src="./images/claude.svg" height="50" alt="Claude" />&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/chatgpt/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/chatgpt/light.svg" height="50" />
-    <img src="./images/chatgpt/light.svg" height="50" alt="ChatGPT" />
-  </picture>&nbsp;
-  <img src="./images/gemini.svg" height="50" alt="Gemini" />&nbsp;
-  <img src="./images/perplexity.svg" height="50" alt="Perplexity" />&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/ollama/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/ollama/light.svg" height="50" />
-    <img src="./images/ollama/light.svg" height="50" alt="Ollama" />
-  </picture>&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/v0/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/v0/light.svg" height="50" />
-    <img src="./images/v0/light.svg" height="50" alt="V0" />
-  </picture>&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/bolt/dark.svg" height="50" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/bolt/light.svg" height="50" />
-    <img src="./images/bolt/light.svg" height="50" alt="Bolt" />
-  </picture>
-</p>
-</details>
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="./images/javascript.svg" height="50" alt="JavaScript" />&nbsp;
+      <img src="./images/typescript.svg" height="50" alt="TypeScript" />&nbsp;
+      <img src="./images/html5.svg" height="50" alt="HTML" />&nbsp;
+      <img src="./images/css.svg" height="50" alt="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend Frameworks & Libraries</th>
+    <td>
+      <img src="./images/react.svg" height="50" alt="React" />&nbsp;
+      <img src="./images/nextjs.svg" height="50" alt="Next.js" />&nbsp;
+      <img src="./images/bootstrap.svg" height="50" alt="Bootstrap" />&nbsp;
+      <img src="./images/sass.svg" height="50" alt="SASS" />
+    </td>
+  </tr>
+  <tr>
+    <th>Backend & Database</th>
+    <td>
+      <img src="./images/nodejs.svg" height="50" alt="Node.js" />&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/express/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/express/light.svg" height="50" />
+        <img src="./images/express/light.svg" height="50" alt="Express" />
+      </picture>&nbsp;
+      <img src="./images/postgresql.svg" height="50" alt="PostgreSQL" />&nbsp;
+      <img src="./images/knex.svg" height="50" alt="Knex" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing & Development</th>
+    <td>
+      <img src="./images/jest.svg" height="50" alt="Jest" />&nbsp;
+      <img src="./images/mocha.svg" height="50" alt="Mocha" />&nbsp;
+      <img src="./images/chai.svg" height="50" alt="Chai" />
+    </td>
+  </tr>
+  <tr>
+    <th>Package Managers</th>
+    <td>
+      <img src="./images/npm.svg" height="50" alt="NPM" />&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/pnpm/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/pnpm/light.svg" height="50" />
+        <img src="./images/pnpm/light.svg" height="50" alt="PNPM" />
+      </picture>&nbsp;
+      <img src="./images/bun.svg" height="50" alt="Bun" />
+    </td>
+  </tr>
+  <tr>
+    <th>Deployment & Hosting</th>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/vercel/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/vercel/light.svg" height="50" />
+        <img src="./images/vercel/light.svg" height="50" alt="Vercel" />
+      </picture>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/render/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/render/light.svg" height="50" />
+        <img src="./images/render/light.svg" height="50" alt="Render" />
+      </picture>&nbsp;
+      <img src="./images/supabase.svg" height="50" alt="Supabase" />&nbsp;
+      <img src="./images/aiven.png" height="50" alt="Aiven" />
+    </td>
+  </tr>
+  <tr>
+    <th>Version Control</th>
+    <td>
+      <img src="./images/git.svg" height="50" alt="Git" />&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/github/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/github/light.svg" height="50" />
+        <img src="./images/github/light.svg" height="50" alt="GitHub" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <th>Development Tools</th>
+    <td>
+      <img src="./images/postman.svg" height="50" alt="Postman" />&nbsp;
+      <img src="./images/docker.svg" height="50" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <th>AI Tools</th>
+    <td>
+      <img src="./images/claude.svg" height="50" alt="Claude" />&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/chatgpt/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/chatgpt/light.svg" height="50" />
+        <img src="./images/chatgpt/light.svg" height="50" alt="ChatGPT" />
+      </picture>&nbsp;
+      <img src="./images/gemini.svg" height="50" alt="Gemini" />&nbsp;
+      <img src="./images/perplexity.svg" height="50" alt="Perplexity" />&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/ollama/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/ollama/light.svg" height="50" />
+        <img src="./images/ollama/light.svg" height="50" alt="Ollama" />
+      </picture>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/v0/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/v0/light.svg" height="50" />
+        <img src="./images/v0/light.svg" height="50" alt="V0" />
+      </picture>&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/bolt/dark.svg" height="50" />
+        <source media="(prefers-color-scheme: light)" srcset="./images/bolt/light.svg" height="50" />
+        <img src="./images/bolt/light.svg" height="50" alt="Bolt" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## What I'm Learning 📚
 
