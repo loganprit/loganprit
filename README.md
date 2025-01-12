@@ -15,7 +15,7 @@
 
 ## What I Use 💻
 
-<table border="0" width="100%">
+<table border="0">
   <tr>
     <td width="40%" align="center">
       <h3>My Editors of Choice</h3>
@@ -23,6 +23,8 @@
         <img src="./images/cursor.svg" height="50" alt="Cursor" />&nbsp;
         <img src="./images/intellij.svg" height="50" alt="Intellij" />
       </p>
+      <img width="441" height="0">
+      <img width="441" height="0">
     </td>
     <td width="60%" align="center">
       <h3>My Current Stack</h3>
@@ -38,6 +40,8 @@
         </picture>&nbsp;
         <img src="./images/postgresql.svg" height="50" alt="PostgreSQL" />
       </p>
+      <img width="441" height="0">
+      <img width="441" height="0">
     </td>
   </tr>
 </table>
