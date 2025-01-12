@@ -15,7 +15,7 @@
 
 ## What I Use 💻
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="40%" align="center">
       <h3>My Editors of Choice</h3>
