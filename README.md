@@ -60,7 +60,8 @@
       <img src="./images/react.svg" height="50" alt="React" />&nbsp;
       <img src="./images/nextjs.svg" height="50" alt="Next.js" />&nbsp;
       <img src="./images/bootstrap.svg" height="50" alt="Bootstrap" />&nbsp;
-      <img src="./images/sass.svg" height="50" alt="SASS" />
+      <img src="./images/sass.svg" height="50" alt="SASS" />&nbsp;
+      <img src="./images/tailwindcss.svg" height="50" alt="Tailwind" />
     </td>
   </tr>
   <tr>
