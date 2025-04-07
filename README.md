@@ -5,7 +5,7 @@
     <td width="60%">
       <h2>About Me</h2>
       <p>I'm a chemical engineering student turned software engineer. I am passionate about all things software and technology, and I am always looking to learn more.</p>
-      <h3>Are you a recruiter? <a href="#connect">Let's Connect!</a></h3>
+      <!--<h3>Are you a recruiter? <a href="#connect">Let's Connect!</a></h3>-->
     </td>
     <td width="40%" align="center">
       <img src="./images/logan.png" height="200" alt="Logan Pritchett" />
